@@ -1,0 +1,24 @@
+{
+    "name": "cuba-adam/gameoflife",
+    "description": "Implementation of Game Of Life test.",
+    "type": "project",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Adam Čuba",
+            "email": "cuba.adam@seznam.cz"
+        }
+    ],
+    "require": {
+        "php": ">=7.1",
+        "ext-simplexml" : "*"
+    },
+    "require-dev": {
+        "tracy/tracy": "^2.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "GameOfLife\\": "src/"
+        }
+    }
+}
