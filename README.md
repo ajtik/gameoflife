@@ -1,4 +1,6 @@
-# gameoflife
+# Testovací úkol Game Of Life
+
+Implementace tohoto zadání: https://github.com/BrandEmbassy/php-test-gol
 
 Vstupní soubor musí být v temp/input.xml
 
